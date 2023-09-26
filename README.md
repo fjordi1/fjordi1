@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fjordi1 kof banna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Intro
+Hey! My name's Yarden and some people call me Jordi :)  
+I'm currently a third year Computer Science student in Reichman University.
 
-<!---
-fjordi1/fjordi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
